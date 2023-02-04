@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    background-color: salmon;
+}
+
+.header_div
+{
+    background: salmon;
+}
+
+.header_div p{
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+
+.main_div button{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: salmon;
+    line-height: 3;
+    text-align: right;
+    text-shadow: 5px 5px 5px rgb(27, 27, 27);
+    padding-right: 25px;
+}
